@@ -2,7 +2,7 @@
 
 """function that returns a list of lists of integers representing the Pascal triangle"""
 
-def pascal_triangle(n)
+def pascal_triangle(n):
     """function that returns a list of lists of integers representing the Pascal triangle"""
 
     arr = []
